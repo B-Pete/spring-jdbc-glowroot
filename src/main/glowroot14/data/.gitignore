@@ -1,0 +1,7 @@
+/data.h2.db
+/data.lock.db
+/rollup-0-detail.capped.db
+/rollup-1-detail.capped.db
+/rollup-2-detail.capped.db
+/rollup-3-detail.capped.db
+/trace-detail.capped.db
