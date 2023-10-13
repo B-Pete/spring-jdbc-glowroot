@@ -1,5 +1,5 @@
 # spring-jdbc-glowroot
-Cloned fromh ttps://github.com/mkyong/spring-boot/spring-jdbc
+Cloned from https://github.com/mkyong/spring-boot/spring-jdbc
 
 Glowroot:
 src/main/glowroot13
